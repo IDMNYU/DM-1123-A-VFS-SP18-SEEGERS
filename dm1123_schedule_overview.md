@@ -27,12 +27,10 @@
 - **Week 1**  
     - Jan 23  
 	[**Course and Student Introductions   
-	Overview of Course**]
-	(Weekly_detail/dm1123_Weekly_detail_wk01.md)  
+	Overview of Course**](Weekly_detail/dm1123_Weekly_detail_wk01.md)  
     - Jan 25  
 	[__Gestalt Lecture    
-	Adobe Illustrator Introduction__]
-	(Weekly_detail/dm1123_Weekly_detail_wk01.md)
+	Adobe Illustrator Introduction__](Weekly_detail/dm1123_Weekly_detail_wk01.md)
 	
 - **Week 2**  
     - **Jan 30**  
@@ -45,89 +43,72 @@
 	
 - **Week 3** 
     - **Feb 6**  
-	[__Adobe Illustrator Demo__]
-	(Weekly_detail/dm1123_Weekly_detail_wk03.md)  
+	[__Adobe Illustrator Demo__](Weekly_detail/dm1123_Weekly_detail_wk03.md)  
     - **Feb 8**  
-	[__Components: Color, Type & Image HW Review__]
-	(Weekly_detail/dm1123_Weekly_detail_wk03.md)  
+	[__Components: Color, Type & Image HW Review__](Weekly_detail/dm1123_Weekly_detail_wk03.md)  
 
 - **Week 4**
     - **Feb 13**  
-	[__Screening: Type__]
-	(Weekly_detail/dm1123_Weekly_detail_wk04.md)  
+	[__Screening: Type__](Weekly_detail/dm1123_Weekly_detail_wk04.md)  
     - **Feb 15**  
 	[__Components: Composition & Concept__  
-	__LOGO Show & Tells__]
-	(Weekly_detail/dm1123_Weekly_detail_wk04.md)
+	__LOGO Show & Tells__](Weekly_detail/dm1123_Weekly_detail_wk04.md)
 	
 - **Week 5**
     - **Feb 20**  
-	[LOGO 1st Draft (Group B)]
-	(Weekly_detail/dm1123_Weekly_detail_wk05.md)
+	[LOGO 1st Draft (Group B)](Weekly_detail/dm1123_Weekly_detail_wk05.md)
     - **Feb 22**  
-	[LOGO 1st Draft (Group A)]
-	(Weekly_detail/dm1123_Weekly_detail_wk05.md)
+	[LOGO 1st Draft (Group A)](Weekly_detail/dm1123_Weekly_detail_wk05.md)
 	
 - **Week 6**
     - **Feb 27**  
-	[LOGO 2nd Draft (Group B)]
-	(Weekly_detail/dm1123_Weekly_detail_wk06.md) 
+	[LOGO 2nd Draft (Group B)](Weekly_detail/dm1123_Weekly_detail_wk06.md) 
     - **March 1**  
-	[LOGO 2nd Draft (Group A)]
-	(Weekly_detail/dm1123_Weekly_detail_wk06.md)
+	[LOGO 2nd Draft (Group A)](Weekly_detail/dm1123_Weekly_detail_wk06.md)
 	
 - **Week 7** 
     - **March 6**  
-    [MIDTERM: LOGO FINAL (Group B)]
-	(Weekly_detail/dm1123_Weekly_detail_wk07.md)
+    [MIDTERM: LOGO FINAL (Group B)](Weekly_detail/dm1123_Weekly_detail_wk07.md)
     - **March 8**  
-	[MIDTERM: LOGO FINAL (Group A)]
-	(Weekly_detail/dm1123_Weekly_detail_wk07.md)
+	[MIDTERM: LOGO FINAL (Group A)](Weekly_detail/dm1123_Weekly_detail_wk07.md)
 
 - **Week 8**  
     - **SPRING BREAK: NO CLASS**
 
 - **Week 9**
     - **March 20**    
- 	[PHYSICAL APP 1st Draft (Group A)]
-	(Weekly_detail/dm1123_Weekly_detail_wk08.md)  
+ 	[PHYSICAL APP 1st Draft (Group A)](Weekly_detail/dm1123_Weekly_detail_wk08.md)  
     - **March 22**  
-	[PHYSICAL APP 1st Draft (Group B)]
-	(Weekly_detail/dm1123_Weekly_detail_wk08.md)
+	[PHYSICAL APP 1st Draft (Group B)](Weekly_detail/dm1123_Weekly_detail_wk08.md)
 
 - **Week 10**
     - **March 27**  
-	[PHYSICAL APP 2nd Draft (Group A)]
-	(Weekly_detail/dm1123_Weekly_detail_wk09.md) 
+	[PHYSICAL APP 2nd Draft (Group A)](Weekly_detail/dm1123_Weekly_detail_wk09.md) 
     - **March 29**  
-    [PHYSICAL APP 2nd Draft (Group B)]	(Weekly_detail/dm1123_Weekly_detail_wk09.md) 
+    [PHYSICAL APP 2nd Draft (Group B)](Weekly_detail/dm1123_Weekly_detail_wk09.md) 
     
 - **Week 11**
     - **April 3**  
-	[Introduce INTERFACE Project]
-	(Weekly_detail/dm1123_Weekly_detail_wk10.md) 
+	[Introduce INTERFACE Project](Weekly_detail/dm1123_Weekly_detail_wk10.md) 
     - **April 5**  
 	[INTERFACE 1st Draft (Group A)](Weekly_detail/dm1123_Weekly_detail_wk10.md) 
 	
 - **Week 12**
     - **April 10**  
-    [INTERFACE 1st Draft (Group B)]
-	(Weekly_detail/dm1123_Weekly_detail_wk11.md)   
+    [INTERFACE 1st Draft (Group B)](Weekly_detail/dm1123_Weekly_detail_wk11.md)   
     - **April 12**  
-    [INTERFACE: Draft 2 (Group A)]
-	(Weekly_detail/dm1123_Weekly_detail_wk12.md)
+    [INTERFACE: Draft 2 (Group A)](Weekly_detail/dm1123_Weekly_detail_wk12.md)
 	
 - **Week 13**
     - **April 17**  
-	[INTERFACE Draft 2 (Group B)]
-	(Weekly_detail/dm1123_Weekly_detail_wk12.md) 
+	[INTERFACE Draft 2 (Group B)](Weekly_detail/dm1123_Weekly_detail_wk12.md) 
     - **April 19**  
     GUEST LECTURE 
     	
 - Week 14
     - **April 24**   
 	INTERFACE FINAL REVIEW (Group A) 
-	- **April 26**  
+    - **April 26**  
 	INTERFACE FINAL REVIEW (Group B)
 
 - Week 15
