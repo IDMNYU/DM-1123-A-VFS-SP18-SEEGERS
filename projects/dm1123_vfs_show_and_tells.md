@@ -49,22 +49,20 @@
 
 **Dates for Creator Show and Tells:**  
 
-* Tues, Jan 30
-  * 
-  * 
+- Tuesday, Jan. 30
+    - Muriel Cooper: Johnathan Apuzen & Faith Agustin
+    - Peter Saville: Sasha Chowdhury & Alvand Daghoghi
 
+- Thursday, Feb. 1
+    - David Carson: Leah Lee & Richelle Newby
+    - Shepard Fairey: Carolyn McCrawley & Luke Reinemann
+    - Sophie Tauber Arp: Nic Parada & Johhny Qiu
 
-* Thurs, Feb 1  
-  * 
-  * 
+- Tuesday, Feb. 6
+    - Barbara Krueger: Chris Krau & Sam Ko
+    - Chipp Kidd: Yuming Lu & Jei Lee
 
-
-* Tues, Feb 6
-  * 
-  * 
-
-
-* Thurs, Feb 8
-  * 
-  * 
-  *  
+- Thursday, Feb. 8th
+    - Tibor Kalman: Clara Gilligan & Gayatri Nanda
+    - Saul Bass: Jimmy Hwang
+    - Paula Scher: Jasmine Sun & Victor Zheng
