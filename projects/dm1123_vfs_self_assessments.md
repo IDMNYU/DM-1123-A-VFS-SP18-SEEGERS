@@ -10,7 +10,7 @@
 
 #### MIDTERM SELF ASSESSMENT  
 
-**Send your midterm self assessment as a Slack Direct Message to me.**
+**Send your midterm self assessment as a PDF in a Slack Direct Message to me.**
 
 Critically analyze/evaluate your visual foundation process and how it is has changed over the course of the semester. 
 
@@ -22,7 +22,7 @@ Critically analyze/evaluate your visual foundation process and how it is has cha
 
 #### FINAL SELF ASSESSMENT   
 
-**Send your midterm self assessment as a Slack Direct Message to me.**
+**Send your final self assessment as a PDF in a Slack Direct Message to me.**
 
 **Of Self**
 
